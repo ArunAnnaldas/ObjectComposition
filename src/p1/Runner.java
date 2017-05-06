@@ -50,14 +50,14 @@ public class Runner {
 		System.out.println("P4: " +p4.getX());
 		System.out.println("P4: " +p4.getY());*/
 		
-		System.out.println("S1: " +s1.getP1());
+		/*System.out.println("S1: " +s1.getP1());
 		System.out.println("S1: " +s1.getP2());
 		System.out.println("S2: " +s2.getP1());
 		System.out.println("S2: " +s2.getP2());
 		System.out.println("S3: " +s3.getP1());
 		System.out.println("S3: " +s3.getP2());
 		System.out.println("S4: " +s4.getP1());
-		System.out.println("S4: " +s4.getP2());
+		System.out.println("S4: " +s4.getP2());*/
 		
 		
 		
